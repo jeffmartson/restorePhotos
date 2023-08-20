@@ -25,7 +25,7 @@
     "react-loader-spinner": "^5.3.4",
     "react-uploader": "^3.3.0",
     "react-use-measure": "^2.1.1",
-    "swr": "^2.1.0",
+    "swr": "^2.2.0",
     "uploader": "^3.3.0"
   },
   "devDependencies": {
