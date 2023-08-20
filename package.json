@@ -26,7 +26,7 @@
     "react-uploader": "^3.3.0",
     "react-use-measure": "^2.1.1",
     "swr": "^2.1.0",
-    "uploader": "^3.3.0"
+    "uploader": "^3.39.0"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
